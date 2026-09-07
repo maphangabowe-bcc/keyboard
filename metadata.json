@@ -1,0 +1,7 @@
+{
+  "name": "PolyType Keyboard",
+  "description": "Real-time multilingual translation keyboard that translates your typing live into 100+ languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
